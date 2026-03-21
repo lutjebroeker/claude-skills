@@ -7,6 +7,7 @@ Custom [Agent Skills](https://agentskills.io/specification) for Claude Code.
 | Skill | Description |
 |-------|-------------|
 | [prototype-builder](skills/prototype-builder) | Generate self-contained clickable HTML prototypes — no external APIs, no Figma. Pure HTML/CSS/JS. |
+| [notebooklm-youtube](skills/notebooklm-youtube) | YouTube URL(s) → NotebookLM pipeline: transcript ophalen, analyses uitvoeren, infographic/audio/flashcards genereren. |
 
 ## Installation
 
